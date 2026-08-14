@@ -6,47 +6,6 @@ A comprehensive collection of JavaScript learning exercises, examples, and conce
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-### Running Examples
-
-
-#### Node.js Examples:
-```bash
-# Run a specific example
-node arrays/theory.js
-
-# Run with debugging
-node --inspect arrays/theory.js
-```
-
-## Progress
-This repository is actively updated as I continue learning.
-
-## 🤝 Contributing
-
-Contributions are welcome! Whether you're fixing bugs, improving explanations, or adding new examples:
-
-### How to contribute:
-```bash
-# Fork the repository
-# Create a feature branch
-git checkout -b feature/new-example
-
-# Make your changes
-# Test your examples
-# Commit with descriptive message
-git commit -m "Add: Array flatMap example with comments"
-
-# Push to your fork
-git push origin feature/new-example
-
-# Create a Pull Request
-```
-
-### Contribution Guidelines:
-- Follow existing code style and commenting patterns
-- Add detailed comments explaining concepts
-- Test your code before submitting
-- Update README if adding new sections
 
 
 ### 1. What is JavaScript?
